@@ -1,4 +1,4 @@
-### Hello World, I'm Rebeca Cortez 🖖🏻
+### Hello World, I'm Rebeca Cortez 🙃
 
 <div align="center"> 
   <a href="https://github.com/rebecacortez">
