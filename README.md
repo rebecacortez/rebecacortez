@@ -1,4 +1,4 @@
-<div align="center"><h2> Hello World! I'm Rebeca Cortez 🙃 </h2></div> 
+<h2 align="center"> Hello World! I'm Rebeca Cortez </h2>
 
 <div align="center"> 
   <a href="https://github.com/rebecacortez">
