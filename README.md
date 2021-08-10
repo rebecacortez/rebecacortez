@@ -1,4 +1,4 @@
-### Hello World, I'm Rebeca Cortez 👋
+### Hello World, I'm Rebeca Cortez 🖖🏻
 
 <div align="center"> 
   <a href="https://github.com/rebecacortez">
@@ -6,7 +6,7 @@
   <img height="146em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecacortez&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
 </div><br>
   
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
