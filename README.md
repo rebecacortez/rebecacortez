@@ -13,8 +13,8 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-  <img align="right" alt="Beca" src="https://i.picasion.com/pic91/857fc13e79e645b965189fe65e72b2fa.gif" width="150" height="150" border="0">
-</div>
+</div>  
+  
 
   
   ##
