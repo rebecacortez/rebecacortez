@@ -1,7 +1,6 @@
 ![1](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
  
  ### :sparkles:  Hi there! 
- 
  ### :sparkles:  About me
 - Marketing graduate
 - Ironhack alumni (Data Analytics & UI/UX Designer)
